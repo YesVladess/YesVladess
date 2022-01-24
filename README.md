@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**YesVladess/YesVladess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Vladislav Kononenko
 
-Here are some ideas to get you started:
+### About me:
+I am a passionate and devoted mobile developer on my way to becoming <senior iOS engineer> 🚀 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main platform is iOS, but im exploring another platforms, such as MacOS and WatchOS. 
+
+My current job is focused on developing iOS SDK, which can provide other developers and companies abiblity to integrate messaging, calls, videoconfs in their apps easily.
+
+I also worked in PSB, where i developed an online banking app + 3 years in test automation. Tests are important 🤖
+
+### More about me:
+
+- 🧑🏻‍💻 I'm currently working in Voximplant
+- 🌱 I’m currently learning SwiftUI at Stanford course CS 193P (not as student, sadly 🥺)
+- 🌝 I love music, RPG games, code, craft beer and working out in the gym 💪🏻
+- 🗣 You can message me: telegram, linkedin, twitter, links are in profile 
+- ⚡ Fun fact: i burr a little bit
+
+### Platforms, languages and tools:
+
+- iOS (Swift + Objective-C)
+- SwiftUI, UIKit, XCTest
+- Scripting (Bash)
+- Other (Git, Fastlane)
+
+
