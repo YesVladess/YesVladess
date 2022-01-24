@@ -3,11 +3,11 @@
 ## I'm Vladislav Kononenko
 
 ### About me:
-I am a passionate and devoted mobile developer on my way to becoming <senior iOS engineer> 🚀 
+I am a passionate and devoted mobile developer on my way to becoming **enior iOS engineer** 🚀 
 
-My main platform is iOS, but im exploring another platforms, such as MacOS and WatchOS. 
+My main platform is iOS, but i got great interest in exploring another platforms in Apple ecosystem, such as MacOS and WatchOS. 
 
-My current job is focused on developing iOS SDK, which can provide other developers and companies abiblity to integrate messaging, calls, videoconfs in their apps easily.
+My current job is focused on developing iOS SDK, which can provide other developers and companies ability to integrate messaging/calls/videoconfs in their apps easily.
 
 I also worked in PSB, where i developed an online banking app + 3 years in test automation. Tests are important 🤖
 
