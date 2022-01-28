@@ -3,7 +3,7 @@
 ## I'm Vladislav Kononenko
 
 ### About me:
-I am a passionate and devoted mobile developer on my way to becoming **enior iOS engineer** 🚀 
+I am a passionate and devoted mobile developer on my way to becoming **senior iOS engineer** 🚀 
 
 My main platform is iOS, but i got great interest in exploring another platforms in Apple ecosystem, such as MacOS and WatchOS. 
 
