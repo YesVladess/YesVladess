@@ -9,14 +9,14 @@ My main platform is iOS, but i got great interest in exploring another platforms
 
 My current job is focused on developing iOS SDK, which can provide other developers and companies ability to integrate messaging/calls/videoconfs in their apps easily.
 
-I also worked in PSB, where i developed an online banking app + 3 years in test automation. Tests are important 🤖
+I also worked in Bank, where i developed an online banking app + 3 years in test automation. Tests are important 🤖
 
 ### More about me:
 
-- 🧑🏻‍💻 I'm currently working in Voximplant
+- 🧑🏻‍💻 I'm currently working in Voximplant (ex PSB, ex ATConsulting)
 - 🌱 I’m currently learning SwiftUI at Stanford course CS 193P (not as student, sadly 🥺)
 - 🌝 I love music, RPG games, code, craft beer and working out in the gym 💪🏻
-- 🗣 You can message me: telegram, linkedin, twitter, links are in profile 
+- 🗣 You can message me: telegram, linkedin, twitter, links are in the profile 
 - ⚡ Fun fact: i burr a little bit
 
 ### Platforms, languages and tools:
@@ -25,5 +25,3 @@ I also worked in PSB, where i developed an online banking app + 3 years in test 
 - SwiftUI, UIKit, XCTest
 - Scripting (Bash)
 - Other (Git, Fastlane)
-
-
