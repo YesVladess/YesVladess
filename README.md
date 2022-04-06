@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Vladislav Kononenko
+## I'm Vlad Kononenko
 
 ### About me:
 I am a passionate and devoted mobile developer on my way to becoming **senior iOS engineer** 🚀 
