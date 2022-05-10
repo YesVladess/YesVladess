@@ -23,5 +23,5 @@ I also worked in Bank, where i developed an online banking app + 3 years in test
 
 - iOS (Swift + Objective-C)
 - SwiftUI, UIKit, XCTest
-- Scripting (Bash)
+- Scripting (Bash, Swift)
 - Other (Git, Fastlane)
